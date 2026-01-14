@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MohamedElgheithCheikhTouradApplication {
 
     public static void main(String[] args) {
+        int a=0;
         SpringApplication.run(MohamedElgheithCheikhTouradApplication.class, args);
     }
 
